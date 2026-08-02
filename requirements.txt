@@ -1,0 +1,17 @@
+# PassGuard runs on the Python standard library alone -- there is nothing to
+# install. This file exists so the project follows the usual Python layout and
+# so `pip install -r requirements.txt` is a safe no-op.
+#
+# Modules used, all built in:
+#   secrets     cryptographically secure random numbers
+#   string      character class constants
+#   math        entropy (log2) calculations
+#   argparse    command line parsing
+#   dataclasses analysis result objects
+#   pathlib     locating the data files
+#   getpass     hidden password input
+#   json        --json output
+#   unittest    the test suite
+#
+# Optional, only if you prefer it for running the tests:
+# pytest>=7.0
