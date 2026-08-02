@@ -8,7 +8,6 @@ It also generates secure **passwords** and **passphrases** using Python's crypto
 
 🔒 **100% Offline** · 🚫 **No Dependencies** · 🐍 **Pure Python** · 🧪 **61 Unit Tests**
 
-> 🇦🇲 **PassGuard-ը** վերլուծում է password-ի ուժգնությունը **rule-based մոտեցմամբ**՝ հաշվի առնելով երկարությունը, character classes-ը, entropy-ն, common-password-ները և հայտնի pattern-ները։ Այն նաև գեներացնում է ուժեղ password-ներ ու passphrase-ներ՝ օգտագործելով Python-ի `secrets` մոդուլը։
 
 > ⚠️ **Privacy First:** Nothing you type is stored, logged, uploaded, or sent anywhere.
 
