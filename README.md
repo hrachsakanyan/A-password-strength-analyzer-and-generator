@@ -14,7 +14,7 @@ It also generates secure **passwords** and **passphrases** using Python's crypto
 ---
 
 ## ✨ Features
-
+ 
 | Feature                          | Description                                                       |
 | -------------------------------- | ----------------------------------------------------------------- |
 | 💪 **Strength Scoring**          | 0–100 score with `Very Weak → Very Strong` verdict                |
