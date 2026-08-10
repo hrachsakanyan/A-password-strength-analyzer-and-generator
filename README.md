@@ -120,7 +120,7 @@ python src/main.py check "hunter2" --json
 A password like:
 
 ```text
-Summer2023!
+Summer2023! 
 ```
 
 looks strong to many traditional password meters because it contains:
