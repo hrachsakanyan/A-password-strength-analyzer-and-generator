@@ -240,7 +240,7 @@ Otter.Canyon.Brass.Vault.07
 
 ---
 
-# 🤖 Use PassGuard in Scripts
+# 🤖 Use PassGuard in Scripts 
 
 The `check` command returns:
 
