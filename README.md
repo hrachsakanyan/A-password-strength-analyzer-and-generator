@@ -323,7 +323,7 @@ Points are removed for predictable patterns such as:
 
 ---
 
-# 🧠 Why Entropy Matters
+# 🧠 Why Entropy Matters 
 
 Traditional password meters often use a simple formula:
 
