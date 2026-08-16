@@ -115,7 +115,7 @@ Get machine-readable JSON output:
 python src/main.py check "hunter2" --json
 ```
 
-### Example
+### Example 
 
 A password like:
 
