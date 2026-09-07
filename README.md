@@ -1,4 +1,4 @@
-# 🛡️ PassGuard 
+# 🛡️ PassGuard
 
 ### 🔐 A Password Strength Analyzer & Secure Password Generator — Built with Pure Python
 
