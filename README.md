@@ -13,7 +13,7 @@ It also generates secure **passwords** and **passphrases** using Python's crypto
 
 ---
 
-## ✨ Features
+## ✨ Features 
  
 | Feature                          | Description                                                       |
 | -------------------------------- | ----------------------------------------------------------------- |
