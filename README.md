@@ -2,7 +2,7 @@
 
 ### 🔐 A Password Strength Analyzer & Secure Password Generator — Built with Pure Python
 
-**PassGuard** is a privacy-first command-line tool that analyzes **how strong a password really is — and explains why**.
+**PassGuard** is a privacy-first command-line tool that analyzes **how strong a password really is — and explains why**
 
 It also generates secure **passwords** and **passphrases** using Python's cryptographically secure `secrets` module.
 
